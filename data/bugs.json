@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "eee12",
+    "title": "Cannot update a Car",
+    "description": "problem when clicking Save",
+    "severity": 5,
+    "createdAt": 1542107359454,
+    "owner": {
+      "_id": "u101",
+      "username": "puki",
+      "fullname": "Puki Ja",
+      "password": "secret1"
+    },
+    "labels": [
+      "dev-branch",
+      "critical"
+    ]
+  },
+  {
+    "_id": "fff12",
+    "title": "Cannot remove a Car",
+    "description": "problem when clicking Save",
+    "severity": 3,
+    "createdAt": 1542107359454,
+    "owner": {
+      "_id": "u101",
+      "username": "puki",
+      "fullname": "Puki Ja",
+      "password": "secret1"
+    },
+    "labels": [
+      "need-CR",
+      "critical"
+    ]
+  }
+]
