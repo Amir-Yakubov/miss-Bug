@@ -62,7 +62,6 @@ export function BugIndex() {
             })
     }
 
-    console.log(bugs)
     return (
         <main>
             <h3>Bugs App</h3>
